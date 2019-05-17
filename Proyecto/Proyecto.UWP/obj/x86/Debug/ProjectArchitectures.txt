@@ -1,0 +1,1 @@
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.UWP\Proyecto.UWP.csproj;x86

@@ -1,0 +1,13 @@
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\netstandard2.0\Proyecto.deps.json
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\netstandard2.0\Proyecto.dll
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csprojAssemblyReference.cache
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfoInputs.cache
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.AssemblyInfo.cs
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\netstandard2.0\Proyecto.pdb
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.dll
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.pdb
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Views\Inventories\FicViInventariosList.xaml.g.cs
+C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Proyecto.Views.Inventories.FicViInventariosList"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:syncfusion="clr-namespace:Syncfusion.SfDataGrid.XForms;assembly=Syncfusion.SfDataGrid.XForms">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <SearchBar
+                x:Name="FicSearchBar"
+                Grid.Row="0"
+                Grid.Column="0"
+                HeightRequest="42"
+                HorizontalOptions="FillAndExpand"
+                Placeholder="Filtrar informacion..."
+                PlaceholderColor="Black"
+                TextChanged="FicSearchBar_TextChanged" />
+            <syncfusion:SfDataGrid
+                x:Name="FicDataGridListaInventaios"
+                AllowSorting="False"
+                AutoGenerateColumns="False"
+                ColumnSizer="Star"
+                ItemsSource="{Binding FicSfDataGrid_ItemSource_Invetario}"
+                SelectedItem="{Binding FicSfDataGrid_SelectItem_Inventario}"
+                SelectionMode="Single"
+                VerticalOptions="FillAndExpand">
+                <syncfusion:SfDataGrid.Columns x:TypeArguments="syncfusion:Columns">
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="ID"
+                        MappingName="IdInventario" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="ESTATUS"
+                        MappingName="IdEstatus" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="SAP"
+                        MappingName="IdInventarioSAP" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="ALMACEN"
+                        MappingName="IdAlmacen" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="CEDI"
+                        MappingName="IdCEDI" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="FECHA"
+                        MappingName="FechaReg" />
+                    <syncfusion:GridTextColumn
+                        HeaderFontAttribute="Bold"
+                        HeaderText="USUARIO"
+                        MappingName="UsuarioReg" />
+                </syncfusion:SfDataGrid.Columns>
+            </syncfusion:SfDataGrid>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
