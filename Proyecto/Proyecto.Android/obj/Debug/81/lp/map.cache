@@ -60,3 +60,5 @@ Syncfusion.SfDataGrid.XForms
 Syncfusion.SfNumericTextBox.Android
 Syncfusion.SfNumericTextBox.XForms.Android
 Syncfusion.SfNumericTextBox.XForms
+Plugin.Connectivity.Abstractions
+Plugin.Connectivity

@@ -23,6 +23,7 @@
     <Jar>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\63\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\46\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\52\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\57\jl\res</ResolvedResourceDirectory>
@@ -38,6 +39,7 @@
     <ResolvedResourceDirectory>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\20\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\81\lp\63\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\81\lp\46\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\81\lp\52\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\81\lp\57\jl\assets</ResolvedAssetDirectory>
@@ -46,6 +48,7 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\63.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\46.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\52.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto.Android\obj\Debug\81\lp\57.stamp</ResolvedResourceDirectoryStamp>

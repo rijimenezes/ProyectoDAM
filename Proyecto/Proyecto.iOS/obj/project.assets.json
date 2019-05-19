@@ -251,6 +251,17 @@
           "lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll": {}
         }
       },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "compile": {
@@ -641,6 +652,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "2.2.0",
+          "Plugin.Connectivity": "1.0.2",
           "Syncfusion.Xamarin.SfDataGrid": "16.4.0.46",
           "Xamarin.Forms": "3.4.0.1008975"
         },
@@ -900,6 +912,17 @@
         },
         "runtime": {
           "lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -1282,6 +1305,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "2.2.0",
+          "Plugin.Connectivity": "1.0.2",
           "Syncfusion.Xamarin.SfDataGrid": "16.4.0.46",
           "Xamarin.Forms": "3.4.0.1008975"
         },
@@ -1543,6 +1567,17 @@
           "lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll": {}
         }
       },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "compile": {
@@ -1923,6 +1958,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "2.2.0",
+          "Plugin.Connectivity": "1.0.2",
           "Syncfusion.Xamarin.SfDataGrid": "16.4.0.46",
           "Xamarin.Forms": "3.4.0.1008975"
         },
@@ -2184,6 +2220,17 @@
           "lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll": {}
         }
       },
+      "Plugin.Connectivity/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "compile": {
@@ -2564,6 +2611,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "2.2.0",
+          "Plugin.Connectivity": "1.0.2",
           "Syncfusion.Xamarin.SfDataGrid": "16.4.0.46",
           "Xamarin.Forms": "3.4.0.1008975"
         },
@@ -2856,6 +2904,57 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "Plugin.Connectivity/1.0.2": {
+      "sha512": "6N2F5scpwdKf1Tg1g6BR3UNdty/sCgbiQCDEPzIG7tjQ5uSlWBz7HPWsv6HZbhpH2knI6kjs2L4UGZXFlgbh8Q==",
+      "type": "package",
+      "path": "plugin.connectivity/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
+        "lib/dotnet/Plugin.Connectivity.Abstractions.dll",
+        "lib/dotnet/Plugin.Connectivity.Abstractions.pdb",
+        "lib/dotnet/Plugin.Connectivity.Abstractions.xml",
+        "lib/dotnet/Plugin.Connectivity.dll",
+        "lib/dotnet/Plugin.Connectivity.pdb",
+        "lib/dotnet/Plugin.Connectivity.xml",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.Abstractions.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.Abstractions.xml",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.pdb",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10/Plugin.Connectivity.xml",
+        "lib/win8/Plugin.Connectivity.Abstractions.dll",
+        "lib/win8/Plugin.Connectivity.Abstractions.pdb",
+        "lib/win8/Plugin.Connectivity.Abstractions.xml",
+        "lib/win8/Plugin.Connectivity.dll",
+        "lib/win8/Plugin.Connectivity.pdb",
+        "lib/win8/Plugin.Connectivity.xml",
+        "lib/wp8/Plugin.Connectivity.Abstractions.dll",
+        "lib/wp8/Plugin.Connectivity.Abstractions.pdb",
+        "lib/wp8/Plugin.Connectivity.Abstractions.xml",
+        "lib/wp8/Plugin.Connectivity.dll",
+        "lib/wp8/Plugin.Connectivity.pdb",
+        "lib/wp8/Plugin.Connectivity.xml",
+        "lib/wpa81/Plugin.Connectivity.Abstractions.dll",
+        "lib/wpa81/Plugin.Connectivity.Abstractions.pdb",
+        "lib/wpa81/Plugin.Connectivity.Abstractions.xml",
+        "lib/wpa81/Plugin.Connectivity.dll",
+        "lib/wpa81/Plugin.Connectivity.pdb",
+        "lib/wpa81/Plugin.Connectivity.xml",
+        "plugin.connectivity.1.0.2.nupkg.sha512",
+        "plugin.connectivity.nuspec"
       ]
     },
     "Remotion.Linq/2.2.0": {

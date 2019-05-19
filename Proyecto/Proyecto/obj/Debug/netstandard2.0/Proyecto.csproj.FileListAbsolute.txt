@@ -10,4 +10,3 @@ C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\bin\Debug\netstandard2.0\Proyecto
 C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.dll
 C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Proyecto.pdb
 C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\Views\Inventories\FicViInventariosList.xaml.g.cs
-C:\xamarin\Proyecto\Proyecto\Proyecto\Proyecto\obj\Debug\netstandard2.0\XamlC.stamp
